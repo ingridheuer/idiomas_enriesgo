@@ -5,6 +5,6 @@ Esta versión además muestra la cantidad de hablantes en el tamaño de los punt
 
 Es parte de un TP final de Laboratorio de Datos donde tratamos de predecir el grado de peligro de extinción de idiomas en base a factores sociales, económicos y características linguísticas.
 
-El mapa está programado en Python, usando plotly. Los datos los obtuvimos de [World Atlas of Language Structures](https://wals.info/) y [Wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page).
+El mapa está programado con Python, usando la librería plotly. Los datos los obtuvimos de [World Atlas of Language Structures](https://wals.info/) y [Wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page).
 
-Se puede interactuar con el mapa [acá](https://ingridheuer.github.io/idiomas_riesgo_interactive/)
+Se puede interactuar con el mapa [acá](https://ingridheuer.github.io/idiomas_riesgo_interactive/) y ver la presentación del trabajo completo [en este link](https://docs.google.com/presentation/d/1xd8a0J_f3qwdsX8mD9NTtGk8F6Ukbt_R58Ie0Bsfg68/edit?usp=sharing).
